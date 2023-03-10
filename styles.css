@@ -1,0 +1,33 @@
+body{
+   background-color: lightgrey; 
+}
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.post{
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.Pheader{
+    display: flex;
+    justify-content:space-between;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
+
+
+
+
+.pad{
+  padding: 5px;
+}
